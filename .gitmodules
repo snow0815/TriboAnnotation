@@ -1,0 +1,12 @@
+[submodule "semantic_annotation_pipeline-ui"]
+	path = semantic_annotation_pipeline-ui
+	url = git@github.com:ReneDorsch/semantic_annotation_pipeline-ui.git
+[submodule "semantic_annotation_pipeline-extraction_module"]
+	path = semantic_annotation_pipeline-extraction_module
+	url = git@github.com:ReneDorsch/semantic_annotation_pipeline-extraction_module.git
+[submodule "semantic_annotation_pipeline-annotation_module"]
+	path = semantic_annotation_pipeline-annotation_module
+	url = git@github.com:ReneDorsch/semantic_annotation_pipeline-annotation_module.git
+[submodule "semantic_annotation_pipeline-analysis_module"]
+	path = semantic_annotation_pipeline-analysis_module
+	url = https://github.com/ReneDorsch/semantic_annotation_pipeline-analysis_module
