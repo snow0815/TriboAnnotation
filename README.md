@@ -10,6 +10,7 @@ A quick access to the pipeline is provided through the pre-analysed publications
 3. Activate the new environment <code>conda activate NEW_ENVIRONMENT_NAME</code> and navigate to the folder of the semantic annotation pipeline: <code>cd ...\semantic_annotation_pipeline-ui</code>
 4. Install the requirements <code>pip install -r requirements.txt</code>
 5. Run the Pipeline: <code>python main.py </code>
+6. Access the Webinterface under http://127.0.0.1:8000
 
 ## Usage and License
 
