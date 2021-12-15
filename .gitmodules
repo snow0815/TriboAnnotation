@@ -9,4 +9,4 @@
 	url = https://github.com/ReneDorsch/semantic_annotation_pipeline-annotation_module.git
 [submodule "semantic_annotation_pipeline-ui"]
 	path = semantic_annotation_pipeline-ui
-	url = https://github.com/ReneDorsch/semantic_annotation_pipeline-ui.git
+	url = git@github.com:ReneDorsch/semantic_annotation_pipeline-ui.git
